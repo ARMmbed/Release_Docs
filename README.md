@@ -1,3 +1,1 @@
-# mbed Release Documents
-
-These are the release documents for mbed OS and mbed Client. They are designed to be read on the [docs.mbed.com project](https://docs.mbed.com/docs/release-documents/en/latest/).
+This is for the previous version. Please see https://github.com/ARMmbed/mbed_os_release_notes
